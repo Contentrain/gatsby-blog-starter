@@ -6,7 +6,7 @@ ID: "872b3e54-79e0-46ed-8675-48bbf27f0971"
 categories: []
 description: "Hello, world! This is a demo post for `gatsby-theme-blog`."
 tags: []
-
+date: "2022-04-13 12:00"
 ---
 Hello, world! This is a demo post for `gatsby-theme-blog`.
 
